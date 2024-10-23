@@ -29,6 +29,14 @@ This project is a feature-rich calendar application built using React and FullCa
 - **SweetAlert2**: A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/3cb043fa-894b-43cc-a8e8-a57f710456a1)
+![image](https://github.com/user-attachments/assets/e21d2ba1-901a-457e-84f7-a2fc79797a7c)
+
+
+
+
 ## Installation
 
 1. Clone the repository:
